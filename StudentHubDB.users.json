@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "69d5cadf271f97a1d3cac3e2"
+  },
+  "Username": "Harry",
+  "Password": "Hashed_Password",
+  "Group": "Admin"
+},
+{
+  "_id": {
+    "$oid": "69d5cadf271f97a1d3cac3e3"
+  },
+  "Username": "Mark",
+  "Password": "Hashed_Password",
+  "Group": "Tutor"
+},
+{
+  "_id": {
+    "$oid": "69d5cadf271f97a1d3cac3e4"
+  },
+  "Username": "Thomas",
+  "Password": "Hashed_Password",
+  "Group": "Student"
+},
+{
+  "_id": {
+    "$oid": "69d5cadf271f97a1d3cac3e5"
+  },
+  "Username": "Jeff",
+  "Password": "Hashed_Password",
+  "Group": "Student"
+}]
